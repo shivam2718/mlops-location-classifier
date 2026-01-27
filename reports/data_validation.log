@@ -20,3 +20,16 @@
 [2026-01-27 00:01:50] No corrupted images detected
 [2026-01-27 00:01:50] No train-test leakage detected
 [2026-01-27 00:01:50] Data validation completed successfully
+[2026-01-27 00:25:29] Starting data validation
+[2026-01-27 00:25:29] Train directory: C:\Users\amank\location classifier\data\ingested\seg_train
+[2026-01-27 00:25:29] Test directory: C:\Users\amank\location classifier\data\ingested\seg_test
+[2026-01-27 00:25:29] Classes validated: ['buildings', 'forest', 'glacier', 'mountain', 'sea', 'street']
+[2026-01-27 00:25:29] No empty class folders found
+[2026-01-27 09:51:09] No corrupted images detected
+[2026-01-27 09:51:10] No train-test leakage detected
+[2026-01-27 09:51:10] Data validation completed successfully
+[2026-01-27 21:06:25] Starting data validation
+[2026-01-27 21:06:25] Train directory: C:\Users\amank\location classifier\data\ingested\seg_train
+[2026-01-27 21:06:25] Test directory: C:\Users\amank\location classifier\data\ingested\seg_test
+[2026-01-27 21:06:25] Classes validated: ['buildings', 'forest', 'glacier', 'mountain', 'sea', 'street']
+[2026-01-27 21:06:25] No empty class folders found

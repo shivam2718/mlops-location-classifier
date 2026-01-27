@@ -1,0 +1,5 @@
+[2026-01-27 21:07:35] Starting data transformation
+[2026-01-27 21:07:35] Train dir: C:\Users\amank\location classifier\data\ingested\seg_train
+[2026-01-27 21:07:35] Test dir: C:\Users\amank\location classifier\data\ingested\seg_test
+[2026-01-27 21:07:35] Detected classes: ['buildings', 'forest', 'glacier', 'mountain', 'sea', 'street']
+[2026-01-27 21:07:36] Data transformation completed successfully
