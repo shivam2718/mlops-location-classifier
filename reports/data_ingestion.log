@@ -46,3 +46,20 @@
 [2026-01-26 22:52:13] TEST  | sea: 510
 [2026-01-26 22:52:13] TEST  | street: 501
 [2026-01-26 22:52:13] Data ingestion completed successfully
+[2026-01-27 00:20:45] Starting data ingestion
+[2026-01-27 00:21:54] Copied raw dataset to ingested directory
+[2026-01-27 00:21:54] TRAIN total images: 14034
+[2026-01-27 00:21:54] TRAIN | buildings: 2191
+[2026-01-27 00:21:54] TRAIN | forest: 2271
+[2026-01-27 00:21:54] TRAIN | glacier: 2404
+[2026-01-27 00:21:54] TRAIN | mountain: 2512
+[2026-01-27 00:21:54] TRAIN | sea: 2274
+[2026-01-27 00:21:54] TRAIN | street: 2382
+[2026-01-27 00:21:54] TEST total images: 3000
+[2026-01-27 00:21:54] TEST  | buildings: 437
+[2026-01-27 00:21:54] TEST  | forest: 474
+[2026-01-27 00:21:54] TEST  | glacier: 553
+[2026-01-27 00:21:54] TEST  | mountain: 525
+[2026-01-27 00:21:54] TEST  | sea: 510
+[2026-01-27 00:21:54] TEST  | street: 501
+[2026-01-27 00:21:54] Data ingestion completed successfully
