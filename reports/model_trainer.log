@@ -1,0 +1,3 @@
+[2026-01-27 22:36:31] Starting model training
+[2026-01-27 22:36:31] Building EfficientNetB0 model (pure Keras)
+[2026-01-27 22:36:35] Model compiled successfully

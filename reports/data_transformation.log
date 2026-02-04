@@ -3,3 +3,8 @@
 [2026-01-27 21:07:35] Test dir: C:\Users\amank\location classifier\data\ingested\seg_test
 [2026-01-27 21:07:35] Detected classes: ['buildings', 'forest', 'glacier', 'mountain', 'sea', 'street']
 [2026-01-27 21:07:36] Data transformation completed successfully
+[2026-01-27 22:36:30] Starting data transformation
+[2026-01-27 22:36:30] Train dir: C:\Users\amank\location classifier\data\ingested\seg_train
+[2026-01-27 22:36:30] Test dir: C:\Users\amank\location classifier\data\ingested\seg_test
+[2026-01-27 22:36:30] Detected classes: ['buildings', 'forest', 'glacier', 'mountain', 'sea', 'street']
+[2026-01-27 22:36:31] Data transformation completed successfully
